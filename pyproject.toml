@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "py_dash"
 version = "0.1.0"
-description = "Project to teste and learn how to use Dash."
+description = "Project to test and learn how to use Dash."
 authors = ["Leandro Gabriel <lassisg@gmail.com>"]
 license = "MIT"
 
